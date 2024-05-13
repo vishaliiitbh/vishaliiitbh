@@ -3,20 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Vishal Joshi's Profile</title>
-<style>
-    .icon-row {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin-bottom: 20px; /* Add some margin at the bottom for spacing */
-    }
-    .icon-row img {
-        margin-right: 10px; /* Adjust spacing between images */
-    }
-</style>
-</head>
-<body>
+
 # Hi 👋, I'm Vishal Joshi
 ## A passionate Tech enthusiast from India
 
