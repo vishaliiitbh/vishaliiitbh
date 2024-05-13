@@ -13,8 +13,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)
 
 - 🌱 I’m currently learning **React and Express**
+-    artificial intelligence , Deep Learning are area of interest
 - 📫 How to reach me [joshi1012ivishal@gmail.com](mailto:joshi1012ivishal@gmail.com)
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1XvI9y0mKsGmX__pH_2ijQwV_OF1Tb6Qn/edit?usp=drive_link&ouid=105197995187952387874&rtpof=true&sd=true)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1xm9KEg82HLCqN9Ht1YcMk51T-qLX7oNM/view?usp=sharing)
 - ⚡ Fun fact: *I think perfection is a myth*
 
 ### Connect with me:
