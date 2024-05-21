@@ -36,6 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" >
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-howjx&psig=AOvVaw08sd5qYp5VtT2_m_a05ick&ust=1716368390921000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDPubWxnoYDFQAAAAAdAAAAABAE)" width="50" >
 </div>
 
 ### Frontend:
