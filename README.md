@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **React and Express**
 -    artificial intelligence , Deep Learning are area of interest
 - 📫 How to reach me [joshi1012ivishal@gmail.com](mailto:joshi1012ivishal@gmail.com)
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1YA1GgRamDqx_E25XqDgCv2lCfdTnL2Gk/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1DFOY3jbil7r3hkfaffE_BzNXk-xMpI3f/view?usp=drive_link)
 - ⚡ Fun fact: *I think perfection is a myth*
 
 ### Connect with me:
