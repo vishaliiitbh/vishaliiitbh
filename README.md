@@ -49,7 +49,7 @@
 ### Framework and Database:
 <div class="icon-row">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50" >
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50" >
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="50" >
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" >
 </div>
 </body>
